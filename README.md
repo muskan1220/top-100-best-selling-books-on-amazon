@@ -49,5 +49,5 @@ The final section of the project focuses on building a **Logistic Regression** m
 
 ---
 
-## 📁 Folder Structure (if applicable)
+
 
